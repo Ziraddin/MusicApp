@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
                     mp.setVolume(volumeLevel, volumeLevel)
                 }
             }
-
+//salam
             override fun onStartTrackingTouch(seekbar: SeekBar?) {}
             override fun onStopTrackingTouch(seekbar: SeekBar?) {}
         })
